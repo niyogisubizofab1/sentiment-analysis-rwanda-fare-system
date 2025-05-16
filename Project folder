@@ -1,0 +1,9 @@
+sentiment-analysis-rwanda-fare-system/
+├── data/
+│   └── sample_comments.txt          # Store your manually collected comments here
+├── scripts/
+│   └── sentiment_analysis.py        # Python script for sentiment analysis
+├── results/
+│   └── sentiment_plot.png           # Output plot generated after running the script
+├── requirements.txt                 # List of Python libraries used
+└── README.md                        # Project overview and instructions
